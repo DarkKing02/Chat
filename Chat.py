@@ -1,4 +1,4 @@
-""#Chat Application Regisration
+#Chat Application Regisration
 import sys
 print "Do you want to Sign Up or Sign In?"
 print "Press U for Sign Up!"
